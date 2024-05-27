@@ -3,4 +3,4 @@ edit1
 edit2
 #About me
 
-Myname is Kobayashi Nami.
+My name is Kobayashi Nami.
